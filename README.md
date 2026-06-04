@@ -401,10 +401,12 @@ Clinical validation and regulatory approval would be required before any real-wo
 # 👨‍💻 Authors
 
 ### Rutvik V. Patil
-### Apurva S. Deuskar
-
 **Bachelor of Technology**
+Department of Computer Science and Engineering
+Academic Year: 2025–2026
 
+### Apurva S. Deuskar
+**Bachelor of Technology**
 Department of Computer Science and Engineering
 
 Academic Year: 2025–2026
